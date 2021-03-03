@@ -1,7 +1,7 @@
-Change in config.json
+Salut,
 
-"YOUR BOT TOKEN" by your bot token
+Je te présente mon code d'un bot TicketMP Discord.js v12.
 
-"YOUR BOT PREFIX" by your bot prefix
+Pour le code à modifier il y a un fichier `.txt` qui va vous indiquer quoi faire.
 
-"YOUR GUILD ID" by your guild ID
+Pour le support de chaques code publiés sur mon github merci d'aller sur ce [**lien**](https://discord.gg/Vpmee3fcAt).
