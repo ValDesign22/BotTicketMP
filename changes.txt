@@ -1,4 +1,4 @@
-Change in config.json
+Change in config.json:
 
 "YOUR BOT TOKEN" by your bot token
 
@@ -7,11 +7,11 @@ Change in config.json
 "YOUR GUILD ID" by your guild ID
 
 
-Ton download all modules
+Ton download all modules:
 
 "npm i discord.js fs"
 
 
-To start the bot
+To start the bot:
 
 "node ."
