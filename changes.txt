@@ -12,6 +12,6 @@ Ton download all modules
 "npm i discord.js fs"
 
 
-Go start the bot
+To start the bot
 
 "node ."
