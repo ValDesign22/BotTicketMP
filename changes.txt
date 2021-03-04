@@ -9,9 +9,9 @@ Change in config.json
 
 Ton download all modules
 
-`npm i discord.js fs`
+"npm i discord.js fs"
 
 
 Go start the bot
 
-`node .`
+"node ."
