@@ -13,14 +13,11 @@ module.exports = async (client, reaction, user) => {
         if (reaction.emoji.name === "🔒") {
             if (message.channel.name.endsWith("-mp")) {
                 const user = await client.users.fetch(`${message.channel.topic}`);
-
-                const guildSupport = client.guilds.cache.find(g => g.id === `${client.config.guild}`);
-                const channelTicketReaction = guildSupport.channels.cache.find(c => c.name === "🎟︙tickets");
-
+                
                 const e = new Discord.MessageEmbed()
                 .setTitle("Ticket fermé")
                 .setColor("#2F3136")
-                .setDescription(`Ton ticket à été fermé par le support.\nSi tu as d'autres questions merci d'ouvrir un ticket içi: <#${channelTicketReaction.id}> ou en m'envoyant un message privé.`)
+                .setDescription(`Ton ticket à été fermé par le support.`)
 
                 await user.send(e);
 
