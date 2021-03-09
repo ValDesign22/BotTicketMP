@@ -6,5 +6,5 @@ description: >-
 
 # Acceuil
 
-Pour paramétrer votre bot discord merci d'aller [içi](https://discord.com/developers/applications/).
+Tout ce qui est questions merci d'aller [içi](https://discord.gg/Vpmee3fcAt).
 
