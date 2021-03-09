@@ -1,2 +1,8 @@
-# Initial page
+---
+description: >-
+  Sur cette page vous allez voir les liens qui vous permettront de mettre en
+  place votre bot ticket MP.
+---
+
+# Acceuil
 
