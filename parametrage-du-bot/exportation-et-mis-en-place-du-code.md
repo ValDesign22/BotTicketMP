@@ -18,3 +18,7 @@ Une fois que vous aurez cliquer dessus il y aura un fenêtre qui s'ouvrira, dans
 
 Une fois le fichier Zip téléchargé vous allez devoir l'extraire et ouvrir le fichier qui vient de se faire extraire du fichier Zip dans votre éditeur de texte \(pour moi: Visual Studio Code\).
 
+![](../.gitbook/assets/image8.png)
+
+Une fois que le code est ouvert vous pouvez ouvrir le terminal \(En haut : Terminal &gt; New Terminal\)
+
