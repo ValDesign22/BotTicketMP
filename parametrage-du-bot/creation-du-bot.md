@@ -24,6 +24,5 @@ Une fois dedans cliquez sur Add Bot puis Yes Do It.
 
 ![](../.gitbook/assets/image5.jpg)
 
-Voilà, vous avez fini de créer votre application.  
-Pour savoir comment mettre le bot en ligne vous pouvez aller sur la page suivante.
+Maintenant vous devez activer les intents de l'application \(cela va servir pour le code\)
 
