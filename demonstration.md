@@ -28,3 +28,5 @@ Pour commencer, envoyer un message via le channel puis regardez vos MP.
 
 Maintenant, envoyez une image \(avec du texte sinon ça ne marchera pas\).
 
+![](.gitbook/assets/image20.png)
+
