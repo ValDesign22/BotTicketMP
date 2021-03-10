@@ -39,3 +39,5 @@ Une fois cela fait, allez dans le fichier `config.json` et modifiez le code comm
 }
 ```
 
+![](../.gitbook/assets/image11.png)
+
