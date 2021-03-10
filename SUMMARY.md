@@ -8,3 +8,7 @@
 * [Exportation et mis-en-place du code](parametrage-du-bot/exportation-et-mis-en-place-du-code.md)
 * [Allumer le bot](parametrage-du-bot/allumer-le-bot.md)
 
+---
+
+* [Démonstration](demonstration.md)
+
