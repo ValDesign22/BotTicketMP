@@ -24,5 +24,11 @@ Une fois dedans cliquez sur Add Bot puis Yes Do It.
 
 ![](../.gitbook/assets/image5.jpg)
 
-Maintenant vous devez activer les intents de l'application \(cela va servir pour le code\)
+Maintenant vous devez activer les intents de l'application \(cela va servir pour le code\).
+
+![](../.gitbook/assets/image13.png)
+
+Votre application est maintenant finie.  
+  
+Passez à la page suivante pour l'exportation et la mis-en-place du code.
 
