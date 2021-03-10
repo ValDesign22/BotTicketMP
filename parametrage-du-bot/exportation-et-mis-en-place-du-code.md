@@ -12,7 +12,7 @@ Une fois dessus vous allez devoir cliquer sur ceci.
 
 ![](../.gitbook/assets/image6.jpg)
 
-Une fois que vous aurez cliquer dessus il y aura un fenêtre qui s'ouvrira, dans laquelle vous devrez cliquer sur Download Zip
+Une fois que vous aurez cliquer dessus il y aura un fenêtre qui s'ouvrira, dans laquelle vous devrez cliquer sur Download Zip.
 
 ![](../.gitbook/assets/image7.jpg)
 
@@ -20,11 +20,11 @@ Une fois le fichier Zip téléchargé vous allez devoir l'extraire et ouvrir le 
 
 ![](../.gitbook/assets/image8.png)
 
-Une fois que le code est ouvert vous pouvez ouvrir le terminal \(En haut : Terminal &gt; New Terminal\)
+Une fois que le code est ouvert vous pouvez ouvrir le terminal \(En haut : Terminal &gt; New Terminal\).
 
 ![](../.gitbook/assets/image9.png)
 
-Dans le terminal, tapez `npm i discord.js fs` \(cela va installer discord.js et fs\)
+Dans le terminal, tapez `npm i discord.js fs` \(cela va installer discord.js et fs\).
 
 ![](../.gitbook/assets/image10.png)
 
