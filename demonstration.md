@@ -30,3 +30,9 @@ Maintenant, envoyez une image \(avec du texte sinon ça ne marchera pas\).
 
 ![](.gitbook/assets/image20.png)
 
+Une fois cela fait allez dans le channel créé précédemment par le bot.
+
+![](.gitbook/assets/image21.png)
+
+Le système avec l'image fonctionne dans les deux sens \(`user => server` et `server => user` \) comme pour le système de messages.
+
