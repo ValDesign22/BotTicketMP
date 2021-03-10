@@ -22,3 +22,20 @@ Une fois le fichier Zip téléchargé vous allez devoir l'extraire et ouvrir le 
 
 Une fois que le code est ouvert vous pouvez ouvrir le terminal \(En haut : Terminal &gt; New Terminal\)
 
+![](../.gitbook/assets/image9.png)
+
+Dans le terminal, tapez `npm i discord.js fs` \(cela va installer discord.js et fs\)
+
+![](../.gitbook/assets/image10.png)
+
+Une fois cela fait, allez dans le fichier `config.json` et modifiez le code comme ceci :
+
+```text
+{
+    "token": "Image 1",
+    "prefix": "!",
+
+    "guild": "Image 2"
+}
+```
+
