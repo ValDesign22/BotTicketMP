@@ -6,5 +6,7 @@ description: >-
 
 # Acceuil
 
-Tout ce qui est questions merci d'aller [içi](https://discord.gg/Vpmee3fcAt).
+Tout ce qui est questions merci d'aller [içi](https://discord.gg/Vpmee3fcAt).  
+  
+Pour suivre le tutoriel de la mis-en-place du code allez sur la page suivante.
 
