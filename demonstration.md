@@ -36,3 +36,11 @@ Une fois cela fait allez dans le channel créé précédemment par le bot.
 
 Le système avec l'image fonctionne dans les deux sens \(`user => server` et `server => user` \) comme pour le système de messages.
 
+
+
+
+
+
+
+J'espère que le tutoriel de mis-en-place et la démonstration vous aurons plu, si vous voulez plus de contenu ou de code vous pouvez aller sur mon [github](https://github.com/ValRedstone) ou sur mon [youtube](https://www.youtube.com/channel/UCNgom5zkGRUZpNF8Ay14oGg) pour des tutoriels de développement avec discord.js.
+
