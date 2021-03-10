@@ -41,3 +41,8 @@ Une fois cela fait, allez dans le fichier `config.json` et modifiez le code comm
 
 ![](../.gitbook/assets/image11.png)
 
+![](../.gitbook/assets/image12.png)
+
+Voilà, la mis-en-place du code est finie.  
+Passez sur le prochaine page pour voir comment cela fonctionne.
+
