@@ -43,6 +43,8 @@ Une fois cela fait, allez dans le fichier `config.json` et modifiez le code comm
 
 ![](../.gitbook/assets/image12.png)
 
-Voilà, la mis-en-place du code est finie.  
+Voilà, la mis-en-place du code est finie.
+
+  
 Passez sur le prochaine page pour voir comment cela fonctionne.
 
