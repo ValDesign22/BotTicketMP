@@ -3,7 +3,7 @@ const fs = require("fs");
 const Discord = require("discord.js");
 
 //Define the client
-const client = new Discord.Client();
+const client = new Discord.Client({ partials: ['MESSAGE', 'CHANNEL', 'REACTION'] });
 
 //Configs
 const config = require("./config.json");
