@@ -28,7 +28,7 @@ module.exports = async(client, message) => {
                     },
                 ],
                 parent: categorie.id,
-                topic: `${message.author.id}`
+                topic: `${message.author.tag}`
             })
             .then(ch => {
                 const e = new Discord.MessageEmbed()
