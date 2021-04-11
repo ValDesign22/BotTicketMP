@@ -24,10 +24,6 @@ module.exports = async(client, message) => {
                     },
                     {
                         allow: ['VIEW_CHANNEL', 'READ_MESSAGE_HISTORY', 'ADD_REACTIONS'],
-                        id: message.author.id
-                    },
-                    {
-                        allow: ['VIEW_CHANNEL', 'READ_MESSAGE_HISTORY', 'ADD_REACTIONS'],
                         id: supportRole.id
                     },
                 ],
