@@ -7,5 +7,3 @@ Pour le code à modifier il y a un fichier `changes.txt` qui va vous indiquer qu
 Pour le support de chaques code publiés sur mon github merci d'aller sur ce [**lien**](https://discord.gg/Vpmee3fcAt).
 
 Pour de l'aide si vous ne comprenez rien alors, allez [**içi**](https://valredstone.gitbook.io/ticketmp-discord-js-v12/).
-
-Ceci est un texte
