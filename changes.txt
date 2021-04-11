@@ -6,6 +6,8 @@ Change in config.json:
 
 "YOUR GUILD ID" by your guild ID
 
+"YOUR GUILD SUPPORT ROLE ID" by your guild support role ID
+
 
 Ton download all modules:
 
