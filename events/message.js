@@ -12,6 +12,8 @@ module.exports = async(client, message) => {
 
         let categorie = guild.channels.cache.find(c => c.name == "Tickets" && c.type == "category");
         if (!categorie) categorie = await guild.channels.create("Tickets", { type: "category", position: 1 }).catch(e => { return console.error(e) });
+        
+        const supportRole = guild.roles.cache.find(r => r.id === `${client.config.support}`);
 
         if (!guild.channels.cache.find(c => c.name === `${message.author.id}-mp`)) {
             guild.channels.create(`${message.author.id}-mp`, {
@@ -23,6 +25,10 @@ module.exports = async(client, message) => {
                     {
                         allow: ['VIEW_CHANNEL', 'READ_MESSAGE_HISTORY', 'ADD_REACTIONS'],
                         id: message.author.id
+                    },
+                    {
+                        allow: ['VIEW_CHANNEL', 'READ_MESSAGE_HISTORY', 'ADD_REACTIONS'],
+                        id: supportRole.id
                     },
                 ],
                 parent: categorie.id,
