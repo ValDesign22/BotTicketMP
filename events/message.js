@@ -34,7 +34,7 @@ module.exports = async(client, message) => {
                 const e = new Discord.MessageEmbed()
                 .setTitle("Un membre demande de l'aide")
                 .setColor("#2F3136")
-                .setDescription(`Utilisateur: ${message.author.tag}\nID: ${message.author.id}`)
+                .setDescription(`Mention: <@${message.author.id}>\nUtilisateur: ${message.author.tag}\nID: ${message.author.id}`)
                 .setFooter("Merci de cliquer sur 🔒 pour fermer le ticket.")
                 .addField("Sa question:", msg)
 
