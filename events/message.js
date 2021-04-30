@@ -15,8 +15,8 @@ module.exports = async(client, message) => {
         
         const supportRole = guild.roles.cache.find(r => r.id === `${client.config.support}`);
 
-        if (!guild.channels.cache.find(c => c.name === `${message.author.id}-mp`)) {
-            guild.channels.create(`${message.author.id}-mp`, {
+        if (!guild.channels.cache.find(c => c.name === `${message.author.discriminator}-mp`)) {
+            guild.channels.create(`${message.author.discriminator}-mp`, {
                 permissionOverwrites: [
                     {
                         deny: 'VIEW_CHANNEL',
@@ -28,7 +28,7 @@ module.exports = async(client, message) => {
                     },
                 ],
                 parent: categorie.id,
-                topic: `${message.author.tag}`
+                topic: `${message.author.id}`
             })
             .then(ch => {
                 const e = new Discord.MessageEmbed()
