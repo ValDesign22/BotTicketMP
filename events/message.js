@@ -44,6 +44,8 @@ module.exports = async(client, message) => {
                 else {
                     e.setImage(null)
                 }
+                
+                message.author.send("Merci pour ton message ! Il a bien été transmis au support.");
 
                 ch.send(e)
                 .then(msg => {
@@ -68,8 +70,6 @@ module.exports = async(client, message) => {
 
             channelTicket.send(e)
         }
-
-        message.author.send("Votre message à été envoyé au support, tu auras une réponse d'ici peu.");
     }
     else {
         if (message.channel.name.endsWith("-mp")) {
