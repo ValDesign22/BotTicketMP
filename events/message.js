@@ -68,6 +68,8 @@ module.exports = async(client, message) => {
 
             channelTicket.send(e)
         }
+
+        message.author.send("Votre message à été envoyé au support, tu auras une réponse d'ici peu.");
     }
     else {
         if (message.channel.name.endsWith("-mp")) {
