@@ -52,7 +52,7 @@ module.exports = async(client, message) => {
             })
         }
         else {
-            const channelTicket = guild.channels.cache.find(c => c.name === `${message.author.id}-mp`)
+            const channelTicket = guild.channels.cache.find(c => c.name === `${message.author.discriminator}-mp`)
 
             const e = new Discord.MessageEmbed()
             .setTitle("Une nouvelle question")
