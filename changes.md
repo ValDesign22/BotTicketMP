@@ -12,12 +12,12 @@
 
 ### To download all modules:
 
-`"npm i"`
+`npm i`
 
 
 ### To start the bot:
 
-`"node index.js"`
+`node index.js`
 
 # 🇨🇵 French
 ### Changer dans config.json:
@@ -33,9 +33,9 @@
 
 ### Pour installer tout les modules:
 
-`"npm i"`
+`npm i`
 
 
 ### Pour lancer le bot:
 
-`"node index.js"`
+`node index.js`
