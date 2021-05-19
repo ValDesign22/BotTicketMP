@@ -1,3 +1,4 @@
+🇬🇧
 Change in config.json:
 
 "YOUR BOT TOKEN" by your bot token
@@ -16,4 +17,25 @@ Ton download all modules:
 
 To start the bot:
 
-"node ."
+"node index.js"
+
+🇨🇵
+Changer dans config.json:
+
+"YOUR BOT TOKEN" par le token de votre bot
+
+"YOUR BOT PREFIX" par le prefix de votre bot
+
+"YOUR GUILD ID" par l'ID de votre serveur
+
+"YOUR GUILD SUPPORT ROLE ID" par l'ID de votre rôle support
+
+
+Pour installer tout les modules:
+
+"npm i discord.js fs"
+
+
+Pour lancer le bot:
+
+"node index.js"
