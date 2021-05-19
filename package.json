@@ -1,7 +1,7 @@
 {
   "name": "botticketmp",
   "version": "1.5.3",
-  "description": "",
+  "description": "Code de bot discord ticket MP créé par </ValRedstone>#6507.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
