@@ -1,5 +1,5 @@
 # 🇬🇧 English
-### Change in config.json:
+### Change in [`config.json`](https://github.com/ValRedstone/BotTicketMP/blob/main/config.json):
 
 `"YOUR BOT TOKEN"` by your bot token
 
@@ -20,7 +20,7 @@
 `node index.js`
 
 # 🇨🇵 French
-### Changer dans config.json:
+### Changer dans [`config.json`](https://github.com/ValRedstone/BotTicketMP/blob/main/config.json):
 
 `"YOUR BOT TOKEN"` par le token de votre bot
 
