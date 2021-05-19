@@ -1,5 +1,5 @@
-🇬🇧
-Change in config.json:
+# 🇬🇧 English
+### Change in config.json:
 
 "YOUR BOT TOKEN" by your bot token
 
@@ -10,17 +10,17 @@ Change in config.json:
 "YOUR GUILD SUPPORT ROLE ID" by your guild support role ID
 
 
-Ton download all modules:
+### To download all modules:
 
 "npm i"
 
 
-To start the bot:
+### To start the bot:
 
 "node index.js"
 
-🇨🇵
-Changer dans config.json:
+# 🇨🇵 French
+### Changer dans config.json:
 
 "YOUR BOT TOKEN" par le token de votre bot
 
@@ -31,11 +31,11 @@ Changer dans config.json:
 "YOUR GUILD SUPPORT ROLE ID" par l'ID de votre rôle support
 
 
-Pour installer tout les modules:
+### Pour installer tout les modules:
 
 "npm i"
 
 
-Pour lancer le bot:
+### Pour lancer le bot:
 
 "node index.js"
