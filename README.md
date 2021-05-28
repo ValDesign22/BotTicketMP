@@ -6,4 +6,4 @@ Pour le code à modifier il y a un fichier [`changes.md`](https://github.com/Val
 
 Si vous trouvez un bug merci d'ouvrir une issue.
 
-Pour de l'aide si vous ne comprenez rien alors, allez [**içi**](https://valredstone.gitbook.io/ticketmp-discord-js-v12/).
+Pour de l'aide si vous ne comprenez rien alors, allez [**ici**](https://valredstone.gitbook.io/ticketmp-discord-js-v12/).
