@@ -35,13 +35,17 @@ Une fois cela fait, allez dans le fichier `config.json` et modifiez le code comm
     "token": "Image 1",
     "prefix": "!",
 
-    "guild": "Image 2"
+    "guild": "Image 2",
+    
+    "support": "Image 3"
 }
 ```
 
 ![](../.gitbook/assets/image11.png)
 
 ![](../.gitbook/assets/image12.png)
+
+![](../.gitbook/assets/unknown.png)
 
 Voilà, la mis-en-place du code est finie.
 
