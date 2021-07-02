@@ -49,7 +49,8 @@ module.exports = async(client, message) => {
 
                 ch.send(e)
                 .then(msg => {
-                    msg.react("🔒")
+                    msg.react("🔒");
+                    msg.pin({ reason: "Nouveau Ticket MP" });
                 })
             })
         }
