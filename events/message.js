@@ -15,7 +15,7 @@ module.exports = async(client, message) => {
         
         const supportRole = guild.roles.cache.find(r => r.id === `${client.config.support}`);
 
-        if (!guild.channels.cache.find(c => c.name === `${message.author.discriminator}-mp`)) {
+        if (!guild.channels.cache.find(c => c.topic === `${message.author.id}`)) {
             guild.channels.create(`${message.author.discriminator}-mp`, {
                 permissionOverwrites: [
                     {
@@ -55,7 +55,7 @@ module.exports = async(client, message) => {
             })
         }
         else {
-            const channelTicket = guild.channels.cache.find(c => c.name === `${message.author.discriminator}-mp`)
+            const channelTicket = guild.channels.cache.find(c => c.topic === `${message.author.id}`)
 
             const e = new Discord.MessageEmbed()
             .setTitle("Une nouvelle question")
