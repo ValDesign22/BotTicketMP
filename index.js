@@ -22,20 +22,5 @@ fs.readdir("./events/", (_err, files) => {
     console.log(`${files.length} events`)
 });
 
-//Define client commands
-client.commands = new Discord.Collection();
-
-//Load all commands
-fs.readdir("./commands/", (_err, files) => {
-    files.forEach((file) => {
-        if (!file.endsWith(".js")) return;
-        let props = require(`./commands/${file}`);
-        let commandName = file.split(".")[0];
-        client.commands.set(commandName, props);
-        console.log(`Commande: ${commandName}`);
-    });
-    console.log(`${files.length} commandes`);
-});
-
 //Login the bot
 client.login(client.config.token)
